@@ -1,0 +1,26 @@
+
+th input {
+border:0px;
+font-weight: normal;
+padding:0px;
+width:100%;
+}
+
+td {
+padding:2px;
+}
+
+.red{
+color:red;
+font-weight:bold;
+}
+
+.blue{
+color:blue;
+font-weight:bold;
+}
+
+.green{
+color:green;
+font-weight:bold;
+}
